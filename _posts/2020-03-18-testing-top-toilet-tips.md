@@ -10,4 +10,6 @@ categories: toilet fart poo
 This is the very first post **ever** on toptoilettips.com.
 While it's just the beginnings today, we plan to have some posts up before you know it!
 
-Happy reading -*Jame*
+Happy reading 
+
+-*Jame*
