@@ -1,9 +1,13 @@
 ---
 layout: post
-title: Testing Top Toilet Tips
+title: Wow, this is going to be fartastic!
 date: 2020-03-18 20:28
-summary: This is a test post.
+summary: This is just the beginning.
 categories: toilet fart poo
 ---
 
-Testing 1 2 3
+## Welcome!
+This is the very first post **ever** on toptoilettips.com.
+While it's just the beginnings today, we plan to have some posts up before you know it!
+
+Happy reading -*Jame*
