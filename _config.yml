@@ -101,8 +101,8 @@ text:
   contact:
     email:    'Email Address'
     content:  'What would you like to say?'
-    subject:  'New submission!'
-    submit:   'Say Hello'
+    subject:  'New TTT submission!'
+    submit:   'Submit'
     ajax:
       sending:  'sending..'
       sent:     'Message sent!'
