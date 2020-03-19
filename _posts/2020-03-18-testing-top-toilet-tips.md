@@ -3,7 +3,7 @@ layout: post
 title: Welcome!
 date: 2020-03-18 21:35
 summary: This is just the beginning.
-categories: toilet fart poo
+categories: farticles
 ---
 
 ## Wow, this is going to be fartastic!
