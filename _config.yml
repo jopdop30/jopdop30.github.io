@@ -3,8 +3,8 @@ title:       Top Toilet Tips
 email:       james@retief.club
 author:      James
 description: "The best toilet related news."
-baseurl:     ""
-url:         ""
+baseurl:     "toptoilettips.com"
+url:         "https://www.toptoilettips.com"
 date_format: "%b %-d, %Y"
 header_pages:
  - about.md
