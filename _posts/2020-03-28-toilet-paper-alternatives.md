@@ -7,6 +7,8 @@ categories: farticles
 comments: true
 ---
 
+### Written By *Reteif*
+
 As the coronavirus sprints towards new victims, so are people as they rush towards the toilet paper aisle at local supermarkets. No matter how hard you try to scavenge for the remains, all that you see are scratches on the shelves and shreds of the soft 5 ply paper that you desire so much. It's a rough day as you return home with nothing but a bottle of half-used sanitiser in your hands. The bathroom - once a safe and private place, now a wipeless war zone.
 
 But hope shall continue to thrive! It is time to find an alternative to keep that bottom clean with good hygiene. And guess what? You’ve come to the right place! Here are our best substitute supplies to tidy that raw rear-end!
@@ -38,5 +40,3 @@ There’s nothing more annoying than coming home from a long day of work and hav
 The thought of having no paper in sight can create an awful fright, and not one with delight. That is why when the body starts to slip and slide, and you get prepared to dip and glide, an alternative plan needs to be made. That is where the vacuum cleaner comes to save the day. Suck up that waste instead of having a bottom with an ugly and unhygienic paste! No need to flush, so having to save for water bills will never be a rush.
 
 So there you have it! Some easily accessible items that will not only save you money, but help keep that lovely rump looking spectacularly shiny! Hopefully these will save you a few tragic trips to the supermarket and will not be leaving you bare handed.
-
--*Jame*
