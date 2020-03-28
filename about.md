@@ -6,4 +6,4 @@ tags: about
 ---
 
 Top toilet tips is the go to place for toilet related news and articles.
-You can expect only articles of the highest caliber here.
+You can expect articles of the highest caliber here.
