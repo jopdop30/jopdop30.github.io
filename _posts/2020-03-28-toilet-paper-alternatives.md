@@ -16,6 +16,7 @@ Trees are still very abundant on Earth, and leaves are even more abundant than t
 
 ## Nappies
 > “Wow, two in and the ideas are already getting absurd?”
+
 Woah, don’t be too hasty there mate, just listen as this is better than it sounds. Babies use nappies so why can’t adults? I mean that’s why adult diapers exist, and what a time to purchase them, plus there is no need to go to the lonely lavatory anymore. This means that we all don’t have to waste time on preparing for the expected upcoming quarantine sitting on the loo! What more could you ask for in a dire situation like this?
 
 ## Tissues/Paper-Towel/Sandpaper
