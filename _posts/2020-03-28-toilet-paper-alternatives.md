@@ -20,7 +20,7 @@ Trees are still very abundant on Earth, and leaves are even more abundant than t
 ## Nappies
 > “Wow, two in and the ideas are already getting absurd?”
 
-Woah, don’t be too hasty there mate, just listen as this is better than it sounds. Babies use nappies so why can’t adults? I mean that’s why adult diapers exist, and what a time to purchase them, plus there is no need to go to the lonely lavatory anymore. This means that we all don’t have to waste time on preparing for the expected upcoming quarantine sitting on the loo! What more could you ask for in a dire situation like this?
+Woah, hold up there mate, just listen, as this is better than it sounds. Babies use nappies so why can’t adults? I mean that’s why adult diapers exist, and what a time to purchase them, plus there is no need to go to the lonely lavatory anymore. This means that we all don’t have to waste time on preparing for the expected upcoming quarantine sitting on the loo! What more could you ask for in a dire situation like this?
 
 ## Tissues/Paper-Towel/Sandpaper
 These are pretty much made up of the same material as toilet paper, just have a bit of a different texture. They will also not be swept off the shelves by the panicked public like current toilet rolls are meaning you will have plenty of time to snag some poo poo paper. Paper towel is the best bet since it's quite thick but has a bit of a rougher texture. Tissue paper is very thin but a tear isn’t too much of an issue as there is so much paper that’s crammed into the boxes that it will take actual effort to finish it all off. Sandpaper may be the roughest, but it will surely keep your backside the cleanest as it won’t just remove all the poo, but your skin too!
