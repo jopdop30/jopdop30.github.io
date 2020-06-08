@@ -8,8 +8,9 @@ self.addEventListener("install", function(e) {
     caches.open(CACHE_NAME).then(function(cache) {
       return cache.addAll([
         "{{ '/css/pixyll.css' | relative_url }}?{{ site.time | date: '%Y%m%d%H%M' }}",
-        "{{ '/' | relative_url }}"
-        "{{ '/farticles/2020/03/28/toilet-paper-alternatives/' | relative_url }}"
+        "{{ '/' | relative_url }}",
+        "{{ '/farticles/2020/03/28/toilet-paper-alternatives/' | relative_url }}",
+        "{{ '/farticles/2020/03/19/welcome/' | relative_url }}"
       ]);
     })
   );
