@@ -22,4 +22,12 @@ layout: null
   "display": "standalone",
   "scope": "{{ '/' | relative_url }}",
   "theme_color": "#ffffff"
+  "shortcuts": [
+    {
+      "name": "Toilet Paper Alternatives",
+      "short_name": "Tp Alts",
+      "description": "View the list of podcasts you saved for later",
+      "url": "farticles/2020/03/28/toilet-paper-alternatives/"
+    }
+  ]
 }
