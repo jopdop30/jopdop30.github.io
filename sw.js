@@ -11,6 +11,8 @@ self.addEventListener("install", function(e) {
         "{{ '/' | relative_url }}",
         "{{ '/farticles/2020/03/28/toilet-paper-alternatives/' | relative_url }}",
         "{{ '/farticles/2020/03/19/welcome/' | relative_url }}"
+        "{{ '/about' | relative_url }}"
+        "{{ '/contact' | relative_url }}"
       ]);
     })
   );
